@@ -1,11 +1,9 @@
 # AmiChats
 AmiChats is a Chat Application built to serve the purpose of exchange of text messages. This application is built via Node.JS, Socket.IO, Express, Javascript and custom UI (HTML &amp; CSS).
-
 For Live Usage: 
 https://amichats.herokuapp.com
 
 For Development Usage:
-
 1. Clone the following repository.
 2. Make sure following Libraries have been already installed in your environment. (Node.js, Nodemon, Socket.io, Express, Moment)
 [
